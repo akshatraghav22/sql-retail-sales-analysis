@@ -6,7 +6,7 @@ Developed a Retail Shop Database Management project using MySQL to manage custom
 
 ## Database Schema
 
-![Database Schema](screenshots/database_schema.png)
+![Database Schema](database_schema.png)
 
 ## Key Features
 
